@@ -1,0 +1,25 @@
+html {
+  overflow:scroll;
+}
+
+body {
+    width:100%;
+}
+
+.unit{
+  margin: 5px 5px 5px 5px;
+}
+
+.unit table{
+  color: #FFF;
+}
+
+.drive_image{
+  width: 60px;
+  margin: 0px auto;
+}
+
+.main_change{
+  height: 250px;
+  overflow-y: scroll;
+}
